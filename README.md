@@ -1,6 +1,6 @@
 ### Hola 👋 soy Kevin / kevinsumc
 
-<img src="/assets/static/LOGO_HEADER.svg" style="width: 130px;" class="pt-2 pb-1">
+<img src="[/assets/static/LOGO_HEADER.svg](https://utec.edu.uy/assets/static/LOGO_HEADER.svg)" style="width: 130px;" class="pt-2 pb-1">
 <img src="/img_sntn/logo_ifsul.png" >
 ## Soy estudiante de la carrera TECNÓLOGO EN ANÁLISIS Y DESARROLLO DE SISTEMAS
 

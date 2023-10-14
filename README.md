@@ -1,8 +1,7 @@
 ### Hola 👋 soy Kevin / kevinsumc
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 <img src="/assets/static/LOGO_HEADER.svg" style="width: 130px;" class="pt-2 pb-1">
+<img src="/img_sntn/logo_ifsul.png" alt="Home — IFSul Campus Santana do Livramento">
 ## Soy estudiante de la carrera TECNÓLOGO EN ANÁLISIS Y DESARROLLO DE SISTEMAS
 
 - 📚 Aprendiendo todo sobre tecnologías Frontend y Backend 
